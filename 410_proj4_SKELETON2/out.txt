@@ -1,0 +1,29 @@
+Waiter Donut Number: 11 11
+
+Waiter Donut Number: 12 12
+
+Baker 1 starting work 
+
+Baker 1 Donut Number: 11 11
+
+Baker 0 starting work 
+
+2
+
+Waiter Donut Number: 13 13
+
+Waiter Donut Number: 14 14
+
+Baker 0 starting work 
+
+Baker 0 Donut Number: 13 13
+
+Waiter Donut Number: 15 15
+
+
+Waiter is exiting 
+
+15 15
+
+Baker 0 is exiting 
+
